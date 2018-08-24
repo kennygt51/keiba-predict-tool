@@ -11,7 +11,7 @@ import ProcDfCreate as dfcreate
 # RankResultDfスーパークラス：着順を分類問題で予測する
 ###############
 class RankResultDf():
-    url = 'sqlite:////Users/kenny15437/TAKANOME/db/ecore.db'
+    url = '・・・'
     engine = sa.create_engine(url)
 
 ###############
